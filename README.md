@@ -23,9 +23,11 @@ iii) Plot the graph: VCE vs IC for a constant IB.
 
 circuit diagram:
 
+<img width="224" height="205" alt="WhatsApp Image 2026-11-26 at 10 16 09 AM" src="https://github.com/user-attachments/assets/4ac6961b-4f7c-4a00-b09e-b91d6b2449f9" />
 
 simulation result:
 
+<img width="1517" height="301" alt="WhatsApp Image 2026-11-26 at 10 16 10 AM" src="https://github.com/user-attachments/assets/d36f61a2-f5db-4f03-bdbc-ccefef25d589" />
 
 
 Result:
